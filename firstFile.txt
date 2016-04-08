@@ -3,3 +3,4 @@ Yes it's great.
 I want to know how it works.
 Now i hnow a little.
 Now I can use git.
+I want to know stage.
